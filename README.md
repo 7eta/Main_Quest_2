@@ -9,7 +9,7 @@
 - P.352 작은 버전의 Xception 모델과 비슷한 네트워크 활용
 
 ## (선택) 문제2. 이미지 분류 학습 결과를 텐서보드로 시각화 합니다
-- 주소 : [https://tensorboard.dev/experiment/1RW1lW8mRdCWG0CvmFgTog/#
+- 주소 : https://tensorboard.dev/experiment/rX7tZJ3gS5CrdLOSldqMVQ/#scalars
 
 
 
