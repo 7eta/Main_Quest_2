@@ -10,6 +10,9 @@
 ## (선택) 문제2. 이미지 분류 학습 결과를 텐서보드로 시각화 합니다
 - 주소 : https://tensorboard.dev/experiment/1RW1lW8mRdCWG0CvmFgTog/#
 - 업로드중..
+![Screenshot from 2023-06-22 16-50-15](https://github.com/7eta/Main_Quest_2/assets/78004922/03ccb3ce-e0e2-40a9-b1dd-7582580d2620)
+
+
 
 ## (선택) 문제3. 가장 성능 좋은 모델에 CAM을 적용해, 분류결과에 대한 근거를 시가고하하고 분석해보세요.
 - 주피터 노트북 파일내 추론 결과 첨부 완료
